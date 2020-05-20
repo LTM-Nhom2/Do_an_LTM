@@ -1,0 +1,10 @@
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\Project_LTM.csprojAssemblyReference.cache
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\GameCaro.Form1.resources
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\Project_LTM.Properties.Resources.resources
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\Project_LTM.csproj.GenerateResource.cache
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\Project_LTM.csproj.CoreCompileInputs.cache
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\bin\Debug\Project_LTM.exe.config
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\bin\Debug\Project_LTM.exe
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\bin\Debug\Project_LTM.pdb
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\Project_LTM.exe
+D:\Học kỳ 4\Lập trình mạng\Project_LTM\Project_LTM\obj\Debug\Project_LTM.pdb
